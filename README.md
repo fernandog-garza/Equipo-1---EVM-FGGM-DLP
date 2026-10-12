@@ -1,5 +1,5 @@
 # Propósito del repositorio
-Este Este repositorio consiste en pequeños proyectos que se irán desarrollando semanalmente, pero esos pequeños proyectos tendrán como objetivo el desarrollo de uno más elaborado. Los invitamos a darle un vistazo a las carpetas que se encuentran aquí, para que nos dejen sus comentarios o puedan tomar inspiración para un proyecto suyo :) 
+Este repositorio consiste en pequeños proyectos que se irán desarrollando semanalmente, pero esos pequeños proyectos tendrán como objetivo el desarrollo de uno más elaborado. Los invitamos a darle un vistazo a las carpetas que se encuentran aquí, para que nos dejen sus comentarios o puedan tomar inspiración para un proyecto suyo :) 
 
 Archivos del repositorio
 
