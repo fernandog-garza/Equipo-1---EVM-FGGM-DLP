@@ -1,5 +1,5 @@
-# Proyecto para entretenimiento haciendo uso de led´s y botones
-Este proyecto consiste en el desarrollo de un juego de reflejos  utilizando tres botones, tres led´s de diferentes colores, un buzzer y un Arduino. El sistema enciende los leds de forma aleatoria y el usuario debe presionar el botón correspondiente al color de la luz encendida. El objetivo es acertar correctamente 10 veces, registrando el tiempo de respuesta y reproduciendo un sonido de victoria o derrota según el resultado obtenido.
+# Propósito del repositorio
+Este Este repositorio consiste en pequeños proyectos que se irán desarrollando semanalmente, pero esos pequeños proyectos tendrán como objetivo el desarrollo de uno más elaborado. Los invitamos a darle un vistazo a las carpetas que se encuentran aquí, para que nos dejen sus comentarios o puedan tomar inspiración para un proyecto suyo :) 
 
 Archivos del repositorio
 
@@ -9,9 +9,8 @@ Los archivos que se encuentran en este repositorio están separados en carpetas 
 
 -Programa de arduino (.ino)
 
--Un reporte en PDF donde se explican las cosas que se trabajaron en la semana y el funcionamiento del circuito.
+-Un reporte en PDF donde se explica el proyecto.
 
--Un video en donde se muestra el circuito funcionando en físico.
-
+-Un video en donde se muestra el circuito funcionando.
 
 Este repositorio se estará actualizando cada semana
